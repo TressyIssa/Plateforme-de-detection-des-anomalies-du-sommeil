@@ -1,4 +1,4 @@
-# Plateforme-de-detection-des-anomalies-du-sommeil/ML
+# Plateforme-de-detection-des-anomalies-du-sommeil/ML.
 
 ![IntroGitHub](https://github.com/user-attachments/assets/cf0b05f9-5018-45fb-995c-2ad4218c13e9)
 
